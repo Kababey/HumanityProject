@@ -9,3 +9,7 @@ Important notes:
  -The project runs by downloading the datasets from the google drive link. In case the drive link is broken, you can use the csv files available in this hub.
  -The zip files in the project must be parsed to the directory where the project file is located. Important for map graphics.
  -Also make sure that the geopandas library specified in the project is downloaded.
+
+
+Resources used: 
+https://digital-geography.com/exploring-osm-israelpalestine/
