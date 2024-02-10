@@ -13,3 +13,4 @@ Important notes:
 
 Resources used: 
 https://digital-geography.com/exploring-osm-israelpalestine/
+https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian
